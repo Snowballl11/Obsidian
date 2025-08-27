@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解三角形 - 角平分线长度公式的证明.md",
+                "file": "二次方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解三角形 - 角平分线长度公式的证明"
+              "title": "二次方程"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "2519188cce431135",
   "lastOpenFiles": [
-    "分式裂项例子.md",
     "建系法.md",
+    "二次方程.md",
+    "分式裂项例子.md",
     "解三角形 - 角平分线长度公式的证明.md",
+    "运用正负关系等价翻译.md",
     "create a link.md",
     "Welcome.md"
   ]
